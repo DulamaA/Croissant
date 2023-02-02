@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   background-color: bisque;
 }
 
@@ -8,4 +9,5 @@ h1 {
 
 a {
   color: brown;
+  margin-left: 10px;
 }
